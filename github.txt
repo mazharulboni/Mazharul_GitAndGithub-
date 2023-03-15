@@ -8,5 +8,6 @@ GitHub also offers a wide range of integrations with other tools commonly used i
 
 In summary, GitHub is a powerful platform that provides developers with a range of tools for managing code repositories and collaborating on software development projects. Its popularity has made it a central hub for the open-source software community, and it continues to be a driving force in modern software development.
 
+Github is an open source tool 
 
 

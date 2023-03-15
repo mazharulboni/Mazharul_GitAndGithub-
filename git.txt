@@ -18,3 +18,4 @@ Easy collaboration: Feature branches make it easy for multiple developers to wor
 Improved testing: Features can be tested independently of the main branch, which can help catch issues earlier in the development process.
 
 Traceability: By using feature branches, you can easily track changes related to a specific feature, making it easier to identify when and where changes were made.
+Making chnages from contributor account
